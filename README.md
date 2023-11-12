@@ -19,7 +19,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.activewhatsappgrouplinks.xyz/">
+<a href="https://www.activewhatsappgrouplinks.xyz/" target="_blank">
 <strong>WEBSITE</strong>
 <br />
 <br />
@@ -35,14 +35,14 @@
 
 
 <td align="center">
-<a href="https://portfolio.atsix.online/">
+<a href="https://portfolio.atsix.online/" target="_blank">
 <strong>CODING</strong>
 <br />
 <br />
 
 
 <p>
-<img height="100" alt="Music" src="images/CODING.gif"> 
+<img height="100" alt="coding" src="images/CODING.gif"> 
 </a>
 </p>
 
@@ -121,10 +121,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mr-ali-874742259/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
-<a href="https://github.com/mralihx"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
-<a href="https://twitter.com/mralihx"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
-<a href="https://www.instagram.com/mralihx"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a>
-<a href="https://t.me/mralihx"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="48px" height="48px"></a>
+<a  href="https://www.linkedin.com/in/mr-ali-874742259/" target="_blank"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
+<a style="padding-left:5%" href="https://github.com/mralihx" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px" ></a>
+<a style="padding-left:5%" href="https://twitter.com/mralihx" target="_blank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
+<a style="padding-left:5%" href="https://www.instagram.com/mralihx" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a>
+<a style="padding-left:5%" href="https://t.me/mralihx" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="48px" height="48px"></a>
 
 </div>
