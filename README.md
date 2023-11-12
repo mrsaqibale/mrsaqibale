@@ -1,10 +1,14 @@
-### Hi there ! :wave:
+# Asslamualikum! 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="30%">
+<div align="center">
+  <img src="images/welcome.gif" width="30%">
+</div>
   <br><br>
   <samp>
-    I'm Saqib Ali :innocent:
+    <div align="center">
+     <img height="50" alt="saqib ale developer" src="images/personal_note.svg" />
+    </div>
     <br>
     <br>
      I'm  currently pursuing 🎓BS in Computer Science from University!
@@ -13,6 +17,47 @@
     <br><br>
   </samp>
 </p>
+
+
+<!-- social site -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/WBESITE.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.portfolio.atsix.online">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/CODING.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -41,6 +86,9 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+![Visitor Count](https://profile-counter.glitch.me/mralihx/count.svg)
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mralihx&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
@@ -59,8 +107,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mralihx&theme=merko)
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 <br>
 
 ### Reach out to me :point_down:
