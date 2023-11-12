@@ -1,14 +1,10 @@
-# Asslamualikum! 
+### Hi there ! :wave:
 
 <p align="center">
-<div align="center">
   <img src="images/welcome.gif" width="30%">
-</div>
   <br><br>
   <samp>
-    <div align="center">
-     <img height="50" alt="saqib ale developer" src="images/personal_note.svg" />
-    </div>
+    I'm Saqib Ali :innocent:
     <br>
     <br>
      I'm  currently pursuing 🎓BS in Computer Science from University!
@@ -23,15 +19,15 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
+<a href="https://www.activewhatsappgrouplinks.xyz/">
+<strong>WEBSITE</strong>
 <br />
 <br />
 <br />
 
 <p>
 
-<img alt="Globe" height="80" src="images/WBESITE.gif">
+<img alt="Globe" height="80" src="images/WEBSITE.gif">
 </a>
 </p>
 
@@ -39,8 +35,8 @@
 
 
 <td align="center">
-<a href="https://www.portfolio.atsix.online">
-<strong>Listen to cool music</strong>
+<a href="https://portfolio.atsix.online/">
+<strong>CODING</strong>
 <br />
 <br />
 
@@ -85,8 +81,9 @@
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
+<samp>
 ![Visitor Count](https://profile-counter.glitch.me/mralihx/count.svg)
+</samp>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
