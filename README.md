@@ -57,10 +57,22 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Express Node js
 - 💞️ I’m looking to collaborate on github
 - :sunglasses: exploring new techs everyday
-- 📫 reach me: atsix.online
+- 📫 reach me: [Gmail](mailto:mrsaqibale@gmail.com)
+- 📫 reach me: [Instagram](https://www.instagram.com/mralihx)
+- 📫 reach me: [Telegram](https://t.me/mralihx)
+- 📫 reach me: [Whatsapp](https://wa.me/03063928834)
+
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<div align="center">
+
+### Thanks for visiting my profile, see you next time! in sha ALLAH
+ ![Visitor Count](https://profile-counter.glitch.me/mralihx/count.svg)
+
+</div>
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -81,10 +93,7 @@
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<samp>
-![Visitor Count](https://profile-counter.glitch.me/mralihx/count.svg)
-</samp>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
@@ -109,8 +118,13 @@
 
 ### Reach out to me :point_down:
 <br>
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/mr-ali-874742259/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
 <a href="https://github.com/mralihx"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
 <a href="https://twitter.com/mralihx"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
 <a href="https://www.instagram.com/mralihx"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a>
 <a href="https://t.me/mralihx"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="48px" height="48px"></a>
+
+</div>
