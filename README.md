@@ -18,16 +18,6 @@
 <!-- social site -->
 <table width="100%" align="center">
 <tr>
-<td align="center">
-<a href="https://www.activewhatsappgrouplinks.xyz/" target="_blank">
-<strong>WEBSITE</strong>
-<br />
-<br />
-<br />
-
-
-</td>
-
 
 <td align="center">
 <strong>CODING</strong>
