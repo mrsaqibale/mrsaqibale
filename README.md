@@ -1,110 +1,64 @@
-### Hi there ! :wave:
+### Hi there! 👋
 
 <p align="center">
   <img src="images/welcome.gif" width="30%">
   <br><br>
   <samp>
-    I'm Saqib Ali :innocent:
-    <br>
-    <br>
-     I'm  currently pursuing 🎓BS in Computer Science from University!
-    <br>
-    :dizzy: Java | Spring Boot | Linux | Electron | Javascript
+    I'm Saqib Ali 😇
     <br><br>
+    A passionate Java Developer working with Spring Boot and JavaScript-based applications.
+    <br>
+    🎓 I’ve completed my BS in Computer Science.
+    <br>
+    🔧 Currently building secure and efficient applications using Java, Spring Boot, and Electron.
   </samp>
 </p>
 
+---
 
-<!-- social site -->
-<table width="100%" align="center">
-<tr>
+### 👨‍💻 About Me
 
-<td align="center">
-<strong>CODING</strong>
-<br />
-<br />
+- 💼 I’m currently working as a Java Developer (Spring Boot).
+- 🚀 Building full-stack apps and exploring backend tools.
+- 🌐 Love learning about **Linux**, **Security**, and **DevOps** practices.
+- 💬 Always open to collaboration on GitHub.
+- 📫 How to reach me: [Email](mailto:mrsaqibale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mrsaqibale)
 
+---
 
-<p>
-<img height="100" alt="coding" src="images/CODING.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-- 🌱 I’m currently learning Express Node js
-- 💞️ I’m looking to collaborate on github
-- :sunglasses: exploring new techs everyday
-- 📫 reach me: [Gmail](mailto:mrsaqibale@gmail.com)
-
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<div align="center">
-
-### Thanks for visiting my profile, see you next time! in sha ALLAH
- ![Visitor Count](https://profile-counter.glitch.me/mrsaqibale/count.svg)
-
-</div>
-
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-## Tech Stacks that I am familiar with :computer:
+### 🛠️ Tech Stack
 
 <div align="center">
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Electron](https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual%20studio%20code)
-  
+![GitHub](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Security](https://img.shields.io/badge/security-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+---
 
-
-<h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mrsaqibale&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-<h2 align="center">📈 𝑴𝒚 Stats </h2>
-<div align="center" style="display:flex; width:100%;">
-  
-  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaqibale&show_icons=true&theme=onedark) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaqibale&layout=compact)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mrsaqibale&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-  
-</div>
-
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-<br>
-
-### Reach out to me :point_down:
-<br>
+### 🤝 Connect With Me
 
 <div align="center">
-
-<a  href="https://www.linkedin.com/in/mr-ali-874742259/" target="_blank"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
-<a style="padding-left:5%" href="https://github.com/mrsaqibale" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px" ></a>
-<a style="padding-left:5%" href="https://twitter.com/mrsaqibale" target="_blank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
-<a style="padding-left:5%" href="https://www.instagram.com/mrsaqibale" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a>
-<a style="padding-left:5%" href="https://t.me/mrsaqibale" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="48px" height="48px"></a>
-
+  <a href="mailto:mrsaqibale@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/mrsaqibale" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile — See you next time! In sha Allah 🤲</b>
+  <br><br>
+  <img src="https://profile-counter.glitch.me/mrsaqibale/count.svg" />
+</p>
