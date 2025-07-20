@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile — See you next time! In sha Allah 🤲</b>
-  <br><br>
-  <img src="https://profile-counter.glitch.me/mrsaqibale/count.svg" />
-</p>
+<!--   <b>Thanks for visiting my profile — See you next time! In sha Allah 🤲</b> -->
+<!--   <br><br> -->
+<!--   <img src="https://profile-counter.glitch.me/mrsaqibale/count.svg" /> -->
+<!-- </p> -->
