@@ -1,5 +1,5 @@
 ### Hi there ! :wave:
-[![committers.top badge](https://user-badge.committers.top/pakistan_public/mrsaqibale.svg)](https://user-badge.committers.top/pakistan_public/mrsaqibale)
+
 <p align="center">
   <img src="images/welcome.gif" width="30%">
   <br><br>
@@ -9,7 +9,7 @@
     <br>
      I'm  currently pursuing 🎓BS in Computer Science from University!
     <br>
-    :dizzy: I Am Passionate About Mastering Linux, DevOps, C++, And Node.Js 
+    :dizzy: Java | Spring Boot | Linux | Electron | Javascript
     <br><br>
   </samp>
 </p>
@@ -25,17 +25,11 @@
 <br />
 <br />
 
-<p>
-
-<img alt="Globe" height="80" src="images/WEBSITE.gif">
-</a>
-</p>
 
 </td>
 
 
 <td align="center">
-<a href="https://portfolio.atsix.online/" target="_blank">
 <strong>CODING</strong>
 <br />
 <br />
@@ -61,9 +55,6 @@
 - 💞️ I’m looking to collaborate on github
 - :sunglasses: exploring new techs everyday
 - 📫 reach me: [Gmail](mailto:mrsaqibale@gmail.com)
-- 📫 reach me: [Instagram](https://www.instagram.com/mrsaqibale)
-- 📫 reach me: [Telegram](https://t.me/mrsaqibale)
-- 📫 reach me: [Whatsapp](https://wa.me/03063928834)
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
