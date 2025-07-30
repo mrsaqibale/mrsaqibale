@@ -1,64 +1,49 @@
-### Hi there! 👋
+# Hi, I'm Saqib Ali 👋
 
-<p align="center">
-  <img src="images/welcome.gif" width="30%">
-  <br><br>
-  <samp>
-    I'm Saqib Ali 😇
-    <br><br>
-    A passionate Java Developer working with Spring Boot and JavaScript-based applications.
-    <br>
-    🎓 I’ve completed my BS in Computer Science.
-    <br>
-    🔧 Currently building secure and efficient applications using Java, Spring Boot, and Electron.
-  </samp>
-</p>
+### Java Developer | Spring Boot | Backend Specialist
+
+🎓 Computer Science Graduate | 💻 Building robust backend systems  
+🔐 Passionate about secure coding practices | ☁️ Exploring DevOps & Cloud Technologies  
 
 ---
 
-### 👨‍💻 About Me
+## 🛠 Technical Expertise
 
-- 💼 I’m currently working as a Java Developer (Spring Boot).
-- 🚀 Building full-stack apps and exploring backend tools.
-- 🌐 Love learning about **Linux**, **Security**, and **DevOps** practices.
-- 💬 Always open to collaboration on GitHub.
-- 📫 How to reach me: [Email](mailto:mrsaqibale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mrsaqibale)
+**Backend Development**  
+✔ Java | Spring Boot | Hibernate | REST APIs  
+✔ Microservices Architecture | Database Design  
 
----
+**Web & Desktop**  
+✔ JavaScript | Electron.js | Basic Frontend (HTML/CSS)  
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Electron](https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Security](https://img.shields.io/badge/security-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+**Tools & Practices**  
+✔ Git | Linux | Docker | CI/CD Pipelines  
+✔ OWASP Security Principles | Clean Code Advocate  
 
 ---
 
-### 🤝 Connect With Me
+## 💼 Professional Journey
 
-<div align="center">
-  <a href="mailto:mrsaqibale@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/mrsaqibale" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+- Currently working as **Java Developer (Spring Boot)**  
+- Experience in building scalable backend systems  
+- Contributor to open-source projects  
 
 ---
 
-<p align="center">
-<!--   <b>Thanks for visiting my profile — See you next time! In sha Allah 🤲</b> -->
-<!--   <br><br> -->
-<!--   <img src="https://profile-counter.glitch.me/mrsaqibale/count.svg" /> -->
-<!-- </p> -->
+## 🌱 Current Focus
+
+- Enhancing knowledge in **Cloud Native Applications (AWS/Docker)**  
+- Implementing **security best practices** in backend systems  
+- Optimizing application performance  
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaqibale)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrsaqibale@gmail.com)
+
+---
+
+> "Clean code always looks like it was written by someone who cares."  
+> — Robert C. Martin
